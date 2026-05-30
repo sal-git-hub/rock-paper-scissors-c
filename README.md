@@ -51,4 +51,4 @@ While building this project, I learned:
 7) Basic program flow and decision making
 
 Screenshot:
-![Game Demo](screenshots/game-demo.png)
+![Game Demo](game-demo.png)

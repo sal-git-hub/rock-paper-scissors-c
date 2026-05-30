@@ -49,3 +49,6 @@ While building this project, I learned:
 5) Seeding random numbers using srand()
 6) Using the modulus % operator
 7) Basic program flow and decision making
+
+Screenshot:
+![Game Demo](screenshots/game-demo.png)
